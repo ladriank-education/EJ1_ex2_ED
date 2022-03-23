@@ -10,8 +10,13 @@
 
 ### Proceso de generacion de JavaDocs
 1. Una vez documentado el codigo hacer click en `File > Export...`
+
 ![](img/1.png)
+
 2. Hacer click en `Java > JavaDoc`
+
 ![](img/2.png)
+
 3. Finalizar haciendo click sobre `Finish`
+
 ![](img/3.png)
